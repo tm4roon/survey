@@ -1,5 +1,7 @@
 # Survey on Natural Language Processing
-自然言語処理に関する論文を調査し、記録しておくリポジトリ。  
+
+> "It takes all the running you can do, to keep in the same place."
+
 <br>
 
 ## 文献リスト

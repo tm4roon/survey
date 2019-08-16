@@ -8,8 +8,6 @@ Wikipedia, BooksCorpusで学習したBERTをさらに、医療関係の大規模
 
 <br>
 
-## 
-
 ## 文献情報
 
 - 著者: Jinhyuk Lee, Wonjin Yoon, Sungdong Kim, Donghyeon Kim, Sunkyu Kim, Chan Ho So and Jaewoo Kang

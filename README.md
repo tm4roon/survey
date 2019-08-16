@@ -5,6 +5,13 @@
 <br>
 
 ## 文献リスト
+
+### Tokenization
+
+- [Rico Sennrich, Barry Haddow, and Alexandra Birch. 2016. Neural Machine Translation of Rare Words with Subword Units. In Proceedings of ACL 2016.](https://github.com/marucha80t/survey-nlp/blob/master/docs/wordpiece.md)
+<br>
+
+
 ### Language Understanding
 
 - [Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018. Improving language understanding by generative pre-training.](https://github.com/marucha80t/survey-nlp/blob/master/docs/GPT.md)

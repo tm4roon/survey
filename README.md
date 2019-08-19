@@ -30,3 +30,6 @@
 - [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/marucha80t/survey-nlp/blob/master/docs/MOM.md)
 <br>
 
+### Summarization
+
+- [Simple Unsupervised Summarization by Contextual Matching](https://github.com/marucha80t/survey-nlp/blob/master/docs/Contextual_Match.md)

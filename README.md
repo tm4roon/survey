@@ -27,9 +27,9 @@
 
 ### Named Entity Recognition
 
-- [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/marucha80t/survey-nlp/blob/master/docs/MOM.md)
+- [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/marucha80t/survey-nlp/blob/master/docs/Cross-lingual_Transfer_Learning_for_Japanese_Named_Entity_Recognition.md)
 <br>
 
 ### Summarization
 
-- [Simple Unsupervised Summarization by Contextual Matching](https://github.com/marucha80t/survey-nlp/blob/master/docs/Contextual_Match.md)
+- [Simple Unsupervised Summarization by Contextual Matching](https://github.com/marucha80t/survey-nlp/blob/master/docs/Simple_Unsupervised_Summarization_by_Contextual_Matching.md)

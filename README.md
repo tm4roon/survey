@@ -30,6 +30,12 @@
 - [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/marucha80t/survey-nlp/blob/master/docs/Cross-lingual_Transfer_Learning_for_Japanese_Named_Entity_Recognition.md)
 <br>
 
+### Keyphrase Extraction
+
+- [Simple Unsupervised Keyphrase Extraction using Sentence Embedding](https://github.com/marucha80t/survey-nlp/blob/master/docs/Embedrankpp.md)
+<br>
+
 ### Summarization
 
 - [Simple Unsupervised Summarization by Contextual Matching](https://github.com/marucha80t/survey-nlp/blob/master/docs/Simple_Unsupervised_Summarization_by_Contextual_Matching.md)
+

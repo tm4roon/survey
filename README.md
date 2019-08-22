@@ -38,6 +38,7 @@
 ### Summarization
 
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://github.com/marucha80t/survey-nlp/blob/master/docs/PGEN.md)
+- [Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization](https://github.com/marucha80t/survey-nlp/blob/master/docs/Re3sum.md)
 - [Fine-tune BERT for Extractive Summarization](https://github.com/marucha80t/survey-nlp/blob/master/docs/BERTSUM.md)
 - [Simple Unsupervised Summarization by Contextual Matching](https://github.com/marucha80t/survey-nlp/blob/master/docs/Simple_Unsupervised_Summarization_by_Contextual_Matching.md)
 <br>

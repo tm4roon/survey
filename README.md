@@ -1,6 +1,6 @@
 # Survey on Natural Language Processing
 
-> "It takes all the running you can do, to keep in the same place."
+> "It takes all the running you can do, to keep in the same place." <br>
 > Red Queen - Through the Looking-Glass, and What Alice Found There
 <br>
 

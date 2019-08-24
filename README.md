@@ -27,7 +27,7 @@
 <br>
 
 ### Named Entity Recognition
-
+- [Character-based Bidirectional LSTM-CRF with words and characters for Japanese Named Entity Recognition](https://github.com/marucha80t/survey-nlp/blob/master/docs/Char-BiLSTM-CRF.md)
 - [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/marucha80t/survey-nlp/blob/master/docs/Cross-lingual_Transfer_Learning_for_Japanese_Named_Entity_Recognition.md)
 <br>
 

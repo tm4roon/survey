@@ -12,6 +12,12 @@
 <br>
 
 
+### Data augmentation
+
+- [Soft Contextual Data Augmentation for Neural Machine Translation](https://github.com/marucha80t/survey-nlp/blob/master/docs/Soft_Contextual_Data_Augmentation_for_Neural_Machine_Translation.md)
+<br>
+
+
 ### Sentence Representation
 
 - [GLOSS: Generative Latent Optimization of Sentence Representations](https://github.com/marucha80t/survey-nlp/blob/master/docs/GLOSS.md)

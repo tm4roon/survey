@@ -12,7 +12,7 @@
 <br>
 
 
-### Data augmentation
+### Data Augmentation
 
 - [Soft Contextual Data Augmentation for Neural Machine Translation](https://github.com/marucha80t/survey-nlp/blob/master/docs/Soft_Contextual_Data_Augmentation_for_Neural_Machine_Translation.md)
 <br>

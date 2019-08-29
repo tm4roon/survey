@@ -4,6 +4,7 @@
 
 ![gloss](https://user-images.githubusercontent.com/53220859/63207375-cb35b980-c0ff-11e9-8e23-24ee92e1ad54.png)
 
+※ 図は元論文から引用。
 <br>
 
 ## 文献情報

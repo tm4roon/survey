@@ -18,6 +18,12 @@
 <br>
 
 
+### Word Representation
+
+- [Contextual String Embeddings for Sequence Labeling](https://github.com/marucha80t/survey-nlp/blob/master/docs/Contextual_String_Embeddings.md)
+<br>
+
+
 ### Sentence Representation
 
 - [GLOSS: Generative Latent Optimization of Sentence Representations](https://github.com/marucha80t/survey-nlp/blob/master/docs/GLOSS.md)
@@ -36,6 +42,7 @@
 - [Character-based Bidirectional LSTM-CRF with words and characters for Japanese Named Entity Recognition](https://github.com/marucha80t/survey-nlp/blob/master/docs/char-bilstm-crf.md)
 - [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/marucha80t/survey-nlp/blob/master/docs/Cross-lingual_Transfer_Learning_for_Japanese_Named_Entity_Recognition.md)
 <br>
+
 
 ### Keyphrase Extraction
 

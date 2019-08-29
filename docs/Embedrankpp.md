@@ -11,7 +11,9 @@
 
 ![embedrank](https://user-images.githubusercontent.com/53220859/63406315-7a3a0400-c424-11e9-9a5b-60df4595421c.png)
 
+※ 図は元論文から引用。
 
+<br>
 
 ## 文献情報
 

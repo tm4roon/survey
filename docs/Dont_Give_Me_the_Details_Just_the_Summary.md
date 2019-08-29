@@ -4,6 +4,8 @@
 
 ![convseq2seq-sum](https://user-images.githubusercontent.com/53220859/63590514-03993400-c5e7-11e9-8100-a368633d1950.png)
 
+※ 図は元論文から引用。
+
 <br>
 
 ## 文献情報

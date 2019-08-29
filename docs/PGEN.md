@@ -5,7 +5,7 @@
 ![pgen](https://user-images.githubusercontent.com/53220859/63508001-024b0700-c514-11e9-9b08-2e2ff0c488af.png)
 
 ※ 図は元論文から引用。
-
+<br>
 
 
 ## 文献情報

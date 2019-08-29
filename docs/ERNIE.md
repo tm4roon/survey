@@ -4,8 +4,10 @@ BERTにおけるマスク単語予測を、phrase-level, entity-levelに拡張�
 <br>
 
 ![ernie_masking](https://user-images.githubusercontent.com/53220859/62587934-e84bda80-b8fe-11e9-88fb-be0120227d6f.png)
+
 ※ 図は元論文を引用。
 <br>
+
 
 ## 文献情報
 

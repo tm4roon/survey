@@ -20,6 +20,7 @@
 
 ### Word Representation
 
+- [Word2Bits: Quantized Word Vectors](https://github.com/marucha80t/survey-nlp/blob/master/docs/word2bits.md)
 - [Contextual String Embeddings for Sequence Labeling](https://github.com/marucha80t/survey-nlp/blob/master/docs/Contextual_String_Embeddings.md)
 <br>
 

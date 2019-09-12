@@ -20,6 +20,7 @@
 
 ### Word Representation
 
+- [Neural Word Embedding as Implicit Matrix Factorization](https://github.com/maru0kun/survey-nlp/blob/master/docs/SPPMI-SVD.md)
 - [Word2Bits: Quantized Word Vectors](https://github.com/maru0kun/survey-nlp/blob/master/docs/word2bits.md)
 - [Contextual String Embeddings for Sequence Labeling](https://github.com/maru0kun/survey-nlp/blob/master/docs/Contextual_String_Embeddings.md)
 <br>

@@ -53,6 +53,7 @@
 
 ### Summarization
 
+- [Low-Resource Neural Headline Generation](https://github.com/maru0kun/survey-nlp/blob/master/docs/Low-Resource_Neural_Headline_Generation.md)
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://github.com/maru0kun/survey-nlp/blob/master/docs/PGEN.md)
 - [Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization](https://github.com/maru0kun/survey-nlp/blob/master/docs/Re3sum.md)
 - [Don't Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization](https://github.com/maru0kun/survey-nlp/blob/master/docs/Dont_Give_Me_the_Details_Just_the_Summary.md)

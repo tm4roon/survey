@@ -13,6 +13,7 @@
 
 ### Data Augmentation
 - [Soft Contextual Data Augmentation for Neural Machine Translation](https://github.com/maru0kun/survey-nlp/blob/master/docs/Soft_Contextual_Data_Augmentation_for_Neural_Machine_Translation.md)
+- [Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting](https://github.com/maru0kun/survey-nlp/blob/master/docs/Sequence-to-sequence_Pre-training_with_Data_Augmentation_for_Sentence_Rewriting.md)
 <br>
 
 
@@ -33,10 +34,6 @@
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://github.com/maru0kun/survey-nlp/blob/master/docs/BioBERT.md)
 - [ERNIE:Enhanced Language Representation with Informative Entities](https://github.com/maru0kun/survey-nlp/blob/master/docs/ERNIE.md)
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://github.com/maru0kun/survey-nlp/blob/master/docs/RoBERTa.md)
-<br>
-
-### Data augmentation
-- [Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting](https://github.com/maru0kun/survey-nlp/blob/master/docs/Sequence-to-sequence_Pre-training_with_Data_Augmentation_for_Sentence_Rewriting.md)
 <br>
 
 

@@ -7,19 +7,16 @@
 ## List
 
 ### Tokenization
-
 - [Neural Machine Translation of Rare Words with Subword Units](https://github.com/maru0kun/survey-nlp/blob/master/docs/wordpiece.md)
 <br>
 
 
 ### Data Augmentation
-
 - [Soft Contextual Data Augmentation for Neural Machine Translation](https://github.com/maru0kun/survey-nlp/blob/master/docs/Soft_Contextual_Data_Augmentation_for_Neural_Machine_Translation.md)
 <br>
 
 
 ### Word Representation
-
 - [Neural Word Embedding as Implicit Matrix Factorization](https://github.com/maru0kun/survey-nlp/blob/master/docs/SPPMI-SVD.md)
 - [Word2Bits: Quantized Word Vectors](https://github.com/maru0kun/survey-nlp/blob/master/docs/word2bits.md)
 - [Contextual String Embeddings for Sequence Labeling](https://github.com/maru0kun/survey-nlp/blob/master/docs/Contextual_String_Embeddings.md)
@@ -27,18 +24,21 @@
 
 
 ### Sentence Representation
-
 - [GLOSS: Generative Latent Optimization of Sentence Representations](https://github.com/maru0kun/survey-nlp/blob/master/docs/GLOSS.md)
 <br>
 
 
 ### Language Understanding
-
 - [Improving language understanding by generative pre-training.](https://github.com/maru0kun/survey-nlp/blob/master/docs/GPT.md)
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://github.com/maru0kun/survey-nlp/blob/master/docs/BioBERT.md)
 - [ERNIE:Enhanced Language Representation with Informative Entities](https://github.com/maru0kun/survey-nlp/blob/master/docs/ERNIE.md)
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://github.com/maru0kun/survey-nlp/blob/master/docs/RoBERTa.md)
 <br>
+
+### Data augmentation
+- [Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting](https://github.com/maru0kun/survey-nlp/blob/master/docs/Sequence-to-sequence_Pre-training_with_Data_Augmentation_for_Sentence_Rewriting.md)
+<br>
+
 
 ### Named Entity Recognition
 - [Character-based Bidirectional LSTM-CRF with words and characters for Japanese Named Entity Recognition](https://github.com/maru0kun/survey-nlp/blob/master/docs/char-bilstm-crf.md)
@@ -47,12 +47,11 @@
 
 
 ### Keyphrase Extraction
-
 - [Simple Unsupervised Keyphrase Extraction using Sentence Embedding](https://github.com/maru0kun/survey-nlp/blob/master/docs/Embedrankpp.md)
 <br>
 
-### Summarization
 
+### Summarization
 - [Low-Resource Neural Headline Generation](https://github.com/maru0kun/survey-nlp/blob/master/docs/Low-Resource_Neural_Headline_Generation.md)
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://github.com/maru0kun/survey-nlp/blob/master/docs/PGEN.md)
 - [Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization](https://github.com/maru0kun/survey-nlp/blob/master/docs/Re3sum.md)

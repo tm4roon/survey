@@ -37,6 +37,12 @@
 <br>
 
 
+### Machine Translation
+- Non-Autoregressive Neural Machine Translation [WIP]
+- [Hint-Based Training for Non-Autoregressive Machine Translation](https://github.com/t080/survey-nlp/blob/master/docs/Hint-Based_Training_for_Non-Autoregressive_Machine_Translation.md)
+<br>
+
+
 ### Named Entity Recognition
 - [Character-based Bidirectional LSTM-CRF with words and characters for Japanese Named Entity Recognition](https://github.com/t080/survey-nlp/blob/master/docs/char-bilstm-crf.md)
 - [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/t080/survey-nlp/blob/master/docs/Cross-lingual_Transfer_Learning_for_Japanese_Named_Entity_Recognition.md)

@@ -30,7 +30,7 @@
 
 
 ### Language Understanding
-- [Improving language understanding by generative pre-training.](https://github.com/t080/survey-nlp/blob/master/docs/GPT.md)
+- [Improving language understanding by generative pre-training](https://github.com/t080/survey-nlp/blob/master/docs/GPT.md)
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://github.com/t080/survey-nlp/blob/master/docs/BioBERT.md)
 - [ERNIE:Enhanced Language Representation with Informative Entities](https://github.com/t080/survey-nlp/blob/master/docs/ERNIE.md)
 - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://github.com/t080/survey-nlp/blob/master/docs/RoBERTa.md)
@@ -38,7 +38,7 @@
 
 
 ### Machine Translation
-- Non-Autoregressive Neural Machine Translation [WIP]
+- [Non-Autoregressive Neural Machine Translation](https://github.com/t080/survey-nlp/blob/master/docs/NAT.md)
 - [Hint-Based Training for Non-Autoregressive Machine Translation](https://github.com/t080/survey-nlp/blob/master/docs/Hint-Based_Training_for_Non-Autoregressive_Machine_Translation.md)
 <br>
 

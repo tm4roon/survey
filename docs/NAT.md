@@ -6,19 +6,11 @@
 
 ## Architecture
 
-<p algin=center>
-
 <img src=https://user-images.githubusercontent.com/53220859/65657993-de259d00-e060-11e9-8b73-582abd69f54e.png>
-
-</p>
-
-
 
 ### Encoder stack
 
 transfomerと同様のencoder。
-
-
 
 ### Decoder stack
 

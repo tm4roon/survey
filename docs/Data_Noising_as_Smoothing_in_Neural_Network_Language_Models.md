@@ -2,7 +2,7 @@
 
 言語モデルを学習させる際に、擬似的に学習データを増やすことで性能向上をはかる試み。データ拡張の方法として、次の2つの手法を提案: (1) 確率γで文中のtokenをplaceholder token "_"に置き換える。 (2) 確率γで文中のtokenを確率分布q(x) (e.g. unigram頻度分布)からサンプリングされたtokenに置き換える。
 
-![variation](https://user-images.githubusercontent.com/53220859/65744850-abe56f80-e134-11e9-8bc8-fe0798fced66.png)
+<img src=https://user-images.githubusercontent.com/53220859/65744850-abe56f80-e134-11e9-8bc8-fe0798fced66.png width=700pt>
 
 
 

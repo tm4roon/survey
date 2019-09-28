@@ -45,6 +45,11 @@ This repository manages summary of literature reviews about computational lingui
 <br>
 
 
+### Grammatical Error Correction
+- [Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://github.com/t080/survey-nlp/blob/master/docs/Improving_Grammatical_Error_Correction_via_Pre-Training_a_Copy-Augmented_Architecture_with_Unlabeled_Data.md)
+<br>
+
+
 ### Named Entity Recognition
 - [Character-based Bidirectional LSTM-CRF with words and characters for Japanese Named Entity Recognition](https://github.com/t080/survey-nlp/blob/master/docs/char-bilstm-crf.md)
 - [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/t080/survey-nlp/blob/master/docs/Cross-lingual_Transfer_Learning_for_Japanese_Named_Entity_Recognition.md)

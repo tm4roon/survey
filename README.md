@@ -47,7 +47,7 @@ This repository manages summary of literature reviews about computational lingui
 
 ### Grammatical Error Correction
 - [Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://github.com/t080/survey-nlp/blob/master/docs/Improving_Grammatical_Error_Correction_via_Pre-Training_a_Copy-Augmented_Architecture_with_Unlabeled_Data.md)
-- [An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction](https://github.com/t080/survey-nlp/blob/master/docs/An_Empirical_Study_of_Incorporatiing_Psudo_Data_into_Grammatical_Error_Correction.md)
+- [An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction](https://github.com/t080/survey-nlp/blob/master/docs/An_Empirical_Study_of_Incorporating_Pseudo_Data_into_Grammatical_Error_Correction.md)
 <br>
 
 

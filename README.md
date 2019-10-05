@@ -62,6 +62,11 @@ This repository manages summary of literature reviews about computational lingui
 <br>
 
 
+### Paraphrase Identification
+- [PAWS: Paraphrase Adversaries from Word Scrambling](https://github.com/t080/survey-nlp/blob/master/docs/PAWS.md)
+<br>
+
+
 ### Summarization
 - [Low-Resource Neural Headline Generation](https://github.com/t080/survey-nlp/blob/master/docs/Low-Resource_Neural_Headline_Generation.md)
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://github.com/t080/survey-nlp/blob/master/docs/PGEN.md)

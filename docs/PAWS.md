@@ -25,4 +25,5 @@
 
 - 著者: Yinfei Yang, Yuan Zhang, Chris Tar and Jason Baldridge
 - リンク: [https://arxiv.org/abs/1904.01130](https://arxiv.org/abs/1904.01130)
+- データセット: [https://github.com/google-research-datasets/paws](https://github.com/google-research-datasets/paws)
 

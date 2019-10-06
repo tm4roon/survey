@@ -64,6 +64,7 @@ This repository manages summary of literature reviews about computational lingui
 
 ### Paraphrase Identification
 - [PAWS: Paraphrase Adversaries from Word Scrambling](https://github.com/t080/survey-nlp/blob/master/docs/PAWS.md)
+- [PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification](https://github.com/t080/survey-nlp/blob/master/docs/PAWSX.md)
 <br>
 
 

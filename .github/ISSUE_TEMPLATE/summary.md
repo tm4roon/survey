@@ -13,3 +13,4 @@ assignees: ''
 ## 文献情報 (Authors and URL of the paper)
 - 著者 (Authors):
 - リンク (URL of the paper):
+- 学会(Journal reference):

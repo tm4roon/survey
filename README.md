@@ -6,12 +6,6 @@ This repository manages summary of literature reviews about computational lingui
 <br>
 
 ## List
-
-### Tokenization
-- [Neural Machine Translation of Rare Words with Subword Units](https://github.com/t080/survey-nlp/blob/master/docs/wordpiece.md)
-<br>
-
-
 ### Data Augmentation
 - [Data Noising as Smoothing in Neural Network Language Models](https://github.com/t080/survey-nlp/blob/master/docs/Data_Noising_as_Smoothing_in_Neural_Network_Language_Models.md)
 - [Soft Contextual Data Augmentation for Neural Machine Translation](https://github.com/t080/survey-nlp/blob/master/docs/Soft_Contextual_Data_Augmentation_for_Neural_Machine_Translation.md)

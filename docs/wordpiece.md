@@ -10,3 +10,4 @@
 ## 文献情報
 - 著者: Rico Sennrich and Barry Haddow and Alexandra Birch
 - リンク: [https://arxiv.org/abs/1508.07909](https://arxiv.org/abs/1508.07909)
+- 学会: ACL2016

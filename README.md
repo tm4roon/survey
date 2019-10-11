@@ -6,18 +6,6 @@ This repository manages summary of literature reviews.
 <br>
 
 ## List
-### Word Representation
-- [Neural Word Embedding as Implicit Matrix Factorization](https://github.com/t080/survey-nlp/blob/master/docs/SPPMI-SVD.md)
-- [Word2Bits: Quantized Word Vectors](https://github.com/t080/survey-nlp/blob/master/docs/word2bits.md)
-- [Contextual String Embeddings for Sequence Labeling](https://github.com/t080/survey-nlp/blob/master/docs/Contextual_String_Embeddings.md)
-<br>
-
-
-### Sentence Representation
-- [GLOSS: Generative Latent Optimization of Sentence Representations](https://github.com/t080/survey-nlp/blob/master/docs/GLOSS.md)
-<br>
-
-
 ### Language Understanding
 - [Improving language understanding by generative pre-training](https://github.com/t080/survey-nlp/blob/master/docs/GPT.md)
 - [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://github.com/t080/survey-nlp/blob/master/docs/BioBERT.md)

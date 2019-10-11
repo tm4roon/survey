@@ -1,18 +1,11 @@
 # Survey on Natural Language Processing
-This repository manages summary of literature reviews about computational linguistics.
+This repository manages summary of literature reviews.
 
 > Red Queen "It takes all the running you can do, to keep in the same place." <br>
 > Through the Looking-Glass, and What Alice Found There
 <br>
 
 ## List
-### Data Augmentation
-- [Data Noising as Smoothing in Neural Network Language Models](https://github.com/t080/survey-nlp/blob/master/docs/Data_Noising_as_Smoothing_in_Neural_Network_Language_Models.md)
-- [Soft Contextual Data Augmentation for Neural Machine Translation](https://github.com/t080/survey-nlp/blob/master/docs/Soft_Contextual_Data_Augmentation_for_Neural_Machine_Translation.md)
-- [Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting](https://github.com/t080/survey-nlp/blob/master/docs/Sequence-to-sequence_Pre-training_with_Data_Augmentation_for_Sentence_Rewriting.md)
-<br>
-
-
 ### Word Representation
 - [Neural Word Embedding as Implicit Matrix Factorization](https://github.com/t080/survey-nlp/blob/master/docs/SPPMI-SVD.md)
 - [Word2Bits: Quantized Word Vectors](https://github.com/t080/survey-nlp/blob/master/docs/word2bits.md)

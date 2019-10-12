@@ -8,4 +8,4 @@
 ## 文献情報
 - 著者: Sidak Pal Singh, Angela Fan, and Michael Auli
 - リンク: [https://arxiv.org/abs/1907.06385](https://arxiv.org/abs/1907.06385)
-- 学会: arXiv
+- 学会: arXiv2019

@@ -10,7 +10,7 @@
 ## 文献情報
 - 著者: Yi Zhang, Tao Ge, Furu Wei, Ming Zhou and Xu Sun
 - リンク: [https://arxiv.org/abs/1909.06002](https://arxiv.org/abs/1909.06002)
-- 学会: arXiv
+- 学会: arXiv2019
 
 
 

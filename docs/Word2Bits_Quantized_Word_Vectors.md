@@ -14,4 +14,4 @@ word2vecを8~16倍軽量化しつつ、高精度を実現する手法word2bits�
 ## 文献情報
 - 著者: Maximilian Lam
 - リンク: [https://arxiv.org/pdf/1803.05651.pdf](https://arxiv.org/pdf/1803.05651.pdf)
-- 学会: arXiv
+- 学会: arXiv2018

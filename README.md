@@ -6,20 +6,6 @@ This repository manages summary of literature reviews.
 <br>
 
 ## List
-### Language Understanding
-- [Improving language understanding by generative pre-training](https://github.com/t080/survey-nlp/blob/master/docs/GPT.md)
-- [BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://github.com/t080/survey-nlp/blob/master/docs/BioBERT.md)
-- [ERNIE:Enhanced Language Representation with Informative Entities](https://github.com/t080/survey-nlp/blob/master/docs/ERNIE.md)
-- [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://github.com/t080/survey-nlp/blob/master/docs/RoBERTa.md)
-<br>
-
-
-### Machine Translation
-- [Non-Autoregressive Neural Machine Translation](https://github.com/t080/survey-nlp/blob/master/docs/NAT.md)
-- [Hint-Based Training for Non-Autoregressive Machine Translation](https://github.com/t080/survey-nlp/blob/master/docs/Hint-Based_Training_for_Non-Autoregressive_Machine_Translation.md)
-<br>
-
-
 ### Grammatical Error Correction
 - [Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://github.com/t080/survey-nlp/blob/master/docs/Improving_Grammatical_Error_Correction_via_Pre-Training_a_Copy-Augmented_Architecture_with_Unlabeled_Data.md)
 - [An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction](https://github.com/t080/survey-nlp/blob/master/docs/An_Empirical_Study_of_Incorporating_Pseudo_Data_into_Grammatical_Error_Correction.md)

@@ -6,13 +6,6 @@ This repository manages summary of literature reviews.
 <br>
 
 ## List
-### Grammatical Error Correction
-- [Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://github.com/t080/survey-nlp/blob/master/docs/Improving_Grammatical_Error_Correction_via_Pre-Training_a_Copy-Augmented_Architecture_with_Unlabeled_Data.md)
-- [An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction](https://github.com/t080/survey-nlp/blob/master/docs/An_Empirical_Study_of_Incorporating_Pseudo_Data_into_Grammatical_Error_Correction.md)
-- [Controllable Data Synthesis Method for Grammatical Error Correction](https://github.com/t080/survey-nlp/blob/master/docs/Controllable_Data_Synthesis_Method_for_Grammatical_Error_Correction.md)
-<br>
-
-
 ### Named Entity Recognition
 - [Character-based Bidirectional LSTM-CRF with words and characters for Japanese Named Entity Recognition](https://github.com/t080/survey-nlp/blob/master/docs/char-bilstm-crf.md)
 - [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/t080/survey-nlp/blob/master/docs/Cross-lingual_Transfer_Learning_for_Japanese_Named_Entity_Recognition.md)

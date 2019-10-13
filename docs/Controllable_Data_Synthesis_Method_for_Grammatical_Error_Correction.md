@@ -10,4 +10,5 @@
 
 - 著者: Chencheng Wang, Liner Yang, Yun Chen, Yongping Du, Erhong Yang
 - リンク: [https://arxiv.org/abs/1909.13302](https://arxiv.org/abs/1909.13302)
+- 学会: arXiv
 

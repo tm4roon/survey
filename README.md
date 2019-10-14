@@ -6,17 +6,6 @@ This repository manages summary of literature reviews.
 <br>
 
 ## List
-### Named Entity Recognition
-- [Character-based Bidirectional LSTM-CRF with words and characters for Japanese Named Entity Recognition](https://github.com/t080/survey-nlp/blob/master/docs/char-bilstm-crf.md)
-- [Cross-lingual Transfer Learning for Japanese Named Entity Recognition](https://github.com/t080/survey-nlp/blob/master/docs/Cross-lingual_Transfer_Learning_for_Japanese_Named_Entity_Recognition.md)
-<br>
-
-
-### Keyphrase Extraction
-- [Simple Unsupervised Keyphrase Extraction using Sentence Embedding](https://github.com/t080/survey-nlp/blob/master/docs/Embedrankpp.md)
-<br>
-
-
 ### Paraphrase Identification
 - [PAWS: Paraphrase Adversaries from Word Scrambling](https://github.com/t080/survey-nlp/blob/master/docs/PAWS.md)
 - [PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification](https://github.com/t080/survey-nlp/blob/master/docs/PAWSX.md)

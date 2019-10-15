@@ -6,12 +6,6 @@ This repository manages summary of literature reviews.
 <br>
 
 ## List
-### Paraphrase Identification
-- [PAWS: Paraphrase Adversaries from Word Scrambling](https://github.com/t080/survey-nlp/blob/master/docs/PAWS.md)
-- [PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification](https://github.com/t080/survey-nlp/blob/master/docs/PAWSX.md)
-<br>
-
-
 ### Summarization
 - [Low-Resource Neural Headline Generation](https://github.com/t080/survey-nlp/blob/master/docs/Low-Resource_Neural_Headline_Generation.md)
 - [Get To The Point: Summarization with Pointer-Generator Networks](https://github.com/t080/survey-nlp/blob/master/docs/PGEN.md)
@@ -22,10 +16,3 @@ This repository manages summary of literature reviews.
 - [Global Encoding for Abstractive Summarization](https://github.com/t080/survey-nlp/blob/master/docs/Global_Encoding_for_Abstractive_Summarization.md)
 - [Clustering of Deep Contextualized Representations for Summarization of Biomedical Texts](https://github.com/t080/survey-nlp/blob/master/docs/biotextsum.md)
 <br>
-
-
-### Others
-- [Neural Text Generation with Unlikelihood Training](https://github.com/t080/survey-nlp/blob/master/docs/Neural_Text_Generation_with_Unlikelihood_Training.md)
-<br>
-
-

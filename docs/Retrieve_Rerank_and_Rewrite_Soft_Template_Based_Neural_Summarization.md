@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/53220859/63508841-bb5e1100-c515-11e9-8de3-3a4ad95c7dad.png width=450pt>
+<img src=https://user-images.githubusercontent.com/53220859/63508841-bb5e1100-c515-11e9-8de3-3a4ad95c7dad.png width=600pt>
 </p>
 
 ## 文献情報

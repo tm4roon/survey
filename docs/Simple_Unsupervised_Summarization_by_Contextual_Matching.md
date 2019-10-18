@@ -21,8 +21,9 @@
 ### Contextual Matching Model
 正確性は、元テキストと要約文の文脈類似度によって評価する。文脈の類似度は、言語モデルの最終出力系列のコサイン類似度によって計算する。ここで、文脈の類似度を<a href="https://www.codecogs.com/eqnedit.php?latex=S(x_{1:m},&space;y_{1:n})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?S(x_{1:m},&space;y_{1:n})" title="S(x_{1:m}, y_{1:n})" /></a>と表すこととする。このとき、<a href="https://www.codecogs.com/eqnedit.php?latex=x_{1:m}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{1:m}" title="x_{1:m}" /></a>, <a href="https://www.codecogs.com/eqnedit.php?latex=y_{1:n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y_{1:n}" title="y_{1:n}" /></a>　はそれぞれ系列長mの入力テキスト、系列長nの要約文を表す。
 
+<p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=p_{cm}({\bf&space;y}|{\bf&space;x})&space;=&space;\prod^{N}_{n=1}q_{cm}(y_n|{\bf&space;y_{<n}},&space;{\bf&space;x})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?p_{cm}({\bf&space;y}|{\bf&space;x})&space;=&space;\prod^{N}_{n=1}q_{cm}(y_n|{\bf&space;y_{<n}},&space;{\bf&space;x})" title="p_{cm}({\bf y}|{\bf x}) = \prod^{N}_{n=1}q_{cm}(y_n|{\bf y_{<n}}, {\bf x})" /></a>
-
+</p>
 
 実際に生成を行う際には、以下の手順に従う。
 1. n=1のとき

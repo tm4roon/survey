@@ -8,9 +8,9 @@ Welcome new contributions !
 
 ## Content
 Conferences on machine learning
-- [Neural Information Processing Systems (NeurIPS) conference](https://github.com/tkmaroon/survey/projects/6)
+- [Neural Information Processing Systems conference (NeurIPS)](https://github.com/tkmaroon/survey/projects/6)
 - [International Conference on Learning Representations (ICLR)](https://github.com/tkmaroon/survey/projects/4)
-- [Association for the Advancement of Artificial Intelligence (AAAI) Conference](https://github.com/tkmaroon/survey/projects/3)
+- [Association for the Advancement of Artificial Intelligence Conference (AAAI)](https://github.com/tkmaroon/survey/projects/3)
 - [International Joint Conference on Artificial Intelligence (IJCAI)](https://github.com/tkmaroon/survey/projects/14)
 - [International Conference on Machine Learning (ICML)](https://github.com/tkmaroon/survey/projects/13)
 

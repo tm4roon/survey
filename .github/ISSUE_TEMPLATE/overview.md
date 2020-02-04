@@ -1,6 +1,6 @@
 ---
-name: detail
-about: Write summary of the paper
+name: overview
+about: Write overview of the paper
 title: ''
 labels: ''
 assignees: ''

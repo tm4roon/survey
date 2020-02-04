@@ -1,6 +1,6 @@
 ---
-name: summary
-about: Write summary of the paper
+name: digest
+about: Write digest of the literature
 title: ''
 labels: ''
 assignees: ''

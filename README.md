@@ -5,6 +5,7 @@ Welcome new contributions !
 > Red Queen "It takes all the running you can do, to keep in the same place." <br>
 > Through the Looking-Glass, and What Alice Found There
 <br>
+:construction: So far, I write summaries in Japanese only. I am going to add summaries of English version in the future.
 
 ## Content
 Conferences on machine learning

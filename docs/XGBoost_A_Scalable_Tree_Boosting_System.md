@@ -1,6 +1,6 @@
 # XGBoost: A Scalable Tree Boosting System
 
-勾配ブースティング木(GDBT: Gradient Descent Boosting Tree)をベースとしたアルゴリズム(ツール)。
+勾配ブースティング木(GBDT: Gradient Boosting Decision Tree)をベースとしたアルゴリズム(ツール)。
 
 <p align="center">
 <img width="400" src="https://user-images.githubusercontent.com/53220859/76211169-f2dda200-6248-11ea-9de5-94f429b98c29.png">
@@ -8,7 +8,7 @@
 
 分類タスク時も回帰木を利用し、予測値を予測確率として算出する。過学習を抑制するために、目的関数における正則化項に加えて、shrinkageやsubsamplingを行っている。
 
-- **Shrinkage**: GDBTでは(t-1)ステップまでの決定木の誤差を埋めるように、tステップの木を学習する。この時、その誤差を一気に埋めに行かないように学習率をかけて抑制すること。
+- **Shrinkage**: GBDTでは(t-1)ステップまでの決定木の誤差を埋めるように、tステップの木を学習する。この時、その誤差を一気に埋めに行かないように学習率をかけて抑制すること。
 - **Subsampling**: 決定木を構築する際に使用する特徴量やデータをサンプリングする (ランダムフォレストと同じ)。
 
 
@@ -31,3 +31,4 @@
 - 著者: Tianqi Chen, Carlos Guestrin
 - リンク: [https://arxiv.org/abs/1603.02754](https://arxiv.org/abs/1603.02754)
 - 学会: KDD2016
+

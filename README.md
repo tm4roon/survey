@@ -14,9 +14,10 @@ Conferences on machine learning
 - [Association for the Advancement of Artificial Intelligence Conference (AAAI)](https://github.com/tkmaroon/survey/projects/3)
 - [International Joint Conference on Artificial Intelligence (IJCAI)](https://github.com/tkmaroon/survey/projects/14)
 - [International Conference on Machine Learning (ICML)](https://github.com/tkmaroon/survey/projects/13)
+- [ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)](https://github.com/tkmaroon/survey-ml/projects/15)
 
 
-Conferences on omputational linguistics
+Conferences on computational linguistics
 - [Annual Meeting of the Association for Computational Linguistics (ACL)](https://github.com/tkmaroon/survey/projects/1)
 - [Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://github.com/tkmaroon/survey/projects/9)
 - [Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)](https://github.com/tkmaroon/survey/projects/10)

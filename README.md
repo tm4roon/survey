@@ -27,6 +27,9 @@ Conferences on computational linguistics
 - [Workshop on ACL](https://github.com/tkmaroon/survey/projects/2)
 
 
+Conferences on computer vision
+- [Computer Vision and Pattern Recognition (CVPR)](https://github.com/tkmaroon/survey/projects/16)
+
 Others
 - [arXiv](https://github.com/tkmaroon/survey/projects/5)
 - [Others](https://github.com/tkmaroon/survey/projects/8)

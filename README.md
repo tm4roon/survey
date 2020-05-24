@@ -9,30 +9,30 @@ Welcome new contributions !
 
 ## Content
 Conferences on machine learning
-- [Neural Information Processing Systems conference (NeurIPS)](https://github.com/tkmaroon/survey/projects/6)
-- [International Conference on Learning Representations (ICLR)](https://github.com/tkmaroon/survey/projects/4)
-- [Association for the Advancement of Artificial Intelligence Conference (AAAI)](https://github.com/tkmaroon/survey/projects/3)
-- [International Joint Conference on Artificial Intelligence (IJCAI)](https://github.com/tkmaroon/survey/projects/14)
-- [International Conference on Machine Learning (ICML)](https://github.com/tkmaroon/survey/projects/13)
-- [ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)](https://github.com/tkmaroon/survey-ml/projects/15)
+- [Neural Information Processing Systems conference (NeurIPS)](https://github.com/markoooov/survey/projects/6)
+- [International Conference on Learning Representations (ICLR)](https://github.com/markoooov/survey/projects/4)
+- [Association for the Advancement of Artificial Intelligence Conference (AAAI)](https://github.com/markoooov/survey/projects/3)
+- [International Joint Conference on Artificial Intelligence (IJCAI)](https://github.com/markoooov/survey/projects/14)
+- [International Conference on Machine Learning (ICML)](https://github.com/markoooov/survey/projects/13)
+- [ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)](https://github.com/markoooov/survey-ml/projects/15)
 
 
 Conferences on computational linguistics
-- [Annual Meeting of the Association for Computational Linguistics (ACL)](https://github.com/tkmaroon/survey/projects/1)
-- [Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://github.com/tkmaroon/survey/projects/9)
-- [Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)](https://github.com/tkmaroon/survey/projects/10)
-- [International Conference on Computational Linguistics (COLING)](https://github.com/tkmaroon/survey/projects/7)
-- [The SIGNLL Conference on Computational Natural Language Learning (CoNLL)](https://github.com/tkmaroon/survey/projects/12)
-- [Conference on Recent Advances in Natural Language Processing (RANLP)](https://github.com/tkmaroon/survey/projects/11)
-- [Workshop on ACL](https://github.com/tkmaroon/survey/projects/2)
+- [Annual Meeting of the Association for Computational Linguistics (ACL)](https://github.com/markoooov/survey/projects/1)
+- [Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://github.com/markoooov/survey/projects/9)
+- [Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)](https://github.com/markoooov/survey/projects/10)
+- [International Conference on Computational Linguistics (COLING)](https://github.com/markoooov/survey/projects/7)
+- [The SIGNLL Conference on Computational Natural Language Learning (CoNLL)](https://github.com/markoooov/survey/projects/12)
+- [Conference on Recent Advances in Natural Language Processing (RANLP)](https://github.com/markoooov/survey/projects/11)
+- [Workshop on ACL](https://github.com/markoooov/survey/projects/2)
 
 
 Conferences on computer vision
-- [Computer Vision and Pattern Recognition (CVPR)](https://github.com/tkmaroon/survey/projects/16)
+- [Computer Vision and Pattern Recognition (CVPR)](https://github.com/markoooov/survey/projects/16)
 
 Others
-- [arXiv](https://github.com/tkmaroon/survey/projects/5)
-- [Others](https://github.com/tkmaroon/survey/projects/8)
+- [arXiv](https://github.com/markoooov/survey/projects/5)
+- [Others](https://github.com/markoooov/survey/projects/8)
 
 ## How to contribute
 1. :open_file_folder: Open a new issue.
@@ -43,4 +43,3 @@ Others
 
 ## Contact
 Any comments and questions are welcome!    
-E-mail: tmaruyama824@gmail.com
